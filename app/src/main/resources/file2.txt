@@ -1,0 +1,1 @@
+This file contains some text to test plagiarism detection. Testing helps ensure accuracy in results.
